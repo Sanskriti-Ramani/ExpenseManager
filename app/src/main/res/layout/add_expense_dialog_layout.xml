@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/expenseTitleEditText"
+        android:layout_margin="8dp"
+        android:inputType="text"
+        android:hint="Expense Title"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_below="@+id/expenseTitleEditText"
+        android:layout_height="wrap_content"
+        android:id="@+id/expenseAmountTitleEditText"
+        android:layout_margin="8dp"
+        android:inputType="number"
+        android:hint="Expense Amount"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:id="@+id/addExpense_DateEditText"
+        android:hint="Select Date"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/expenseAmountTitleEditText"
+        android:inputType="none"
+        android:focusableInTouchMode="false"
+        android:focusable="false"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:id="@+id/addExpense_TimeEditText"
+        android:hint="Select Time"
+        android:focusableInTouchMode="false"
+        android:focusable="false"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/addExpense_DateEditText"
+        android:inputType="none"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp" />
+
+</RelativeLayout>
