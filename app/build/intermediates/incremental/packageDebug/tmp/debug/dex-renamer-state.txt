@@ -1,13 +1,4 @@
-#Sat Jul 07 15:27:04 IST 2018
-path.3=classes.dex
-path.2=classes.dex
-path.1=classes.dex
+#Sat Jul 07 15:29:27 IST 2018
+base.0=/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/transforms/dexMerger/debug/33
 path.0=classes.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/transforms/dexMerger/debug/28
-base.2=/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/transforms/dexMerger/debug/31
-base.1=/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/transforms/dexMerger/debug/29
-base.0=/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/transforms/dexMerger/debug/30

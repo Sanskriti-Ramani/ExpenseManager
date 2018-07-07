@@ -55,6 +55,7 @@ public class CustomAdapter extends ArrayAdapter {
     // this function gets the type of each item from getItemViewType and on the basis of it we apply if else and inflate the layout.
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
+
     }
 
 
