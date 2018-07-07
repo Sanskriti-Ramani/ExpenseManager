@@ -29,7 +29,6 @@ public class CustomAdapter extends ArrayAdapter {
     // This function returns the type of item(in our case header or list item) that adapter wants to know in getView function.
     @Override
     public int getItemViewType(int position) {
-
     }
 
     // This function gives the total count of items that will be there in the list.
@@ -40,7 +39,6 @@ public class CustomAdapter extends ArrayAdapter {
     // This function returns the object of the itemList that has to inflated at that position.
     @Override
     public Object getItem(int position) {
-
     }
 
 
@@ -48,7 +46,6 @@ public class CustomAdapter extends ArrayAdapter {
     // we return the position, which is also unique for every item.
     @Override
     public long getItemId(int position) {
-
     }
 
 
@@ -58,7 +55,6 @@ public class CustomAdapter extends ArrayAdapter {
     // this function gets the type of each item from getItemViewType and on the basis of it we apply if else and inflate the layout.
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-
     }
 
 
