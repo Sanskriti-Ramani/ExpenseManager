@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Sat Jul 07 15:29:27 IST 2018
+#Sun Jul 08 12:19:37 IST 2018
 0.baseType=DIRECTORY
-0.base=/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/transforms/dexMerger/debug/33
+0.base=C\:\\Expense-Multi-View-List-Assignment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

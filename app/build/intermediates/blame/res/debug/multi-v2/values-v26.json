@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "C:\\Expense-Multi-View-List-Assignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "/home/sahil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/8ad1818fc0f60ce041f11de3059b0daa/res/values-v26/values-v26.xml",
+                    "source": "C:\\Users\\Sanskriti\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\194b84cca74486192c84ee9b67d7d99b\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Expense-Multi-View-List-Assignment\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Expense-Multi-View-List-Assignment\app\src\debug\shaders"/></dataSet></merger>
