@@ -18,7 +18,6 @@ public class CustomAdapter extends ArrayAdapter {
     ArrayList<Item> itemsList;
     LayoutInflater inflater;
 
-
     // Constructor
     public CustomAdapter(Context context, ArrayList<Item> itemsList) {
         super(context, 0);
